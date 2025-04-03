@@ -2,4 +2,5 @@
 void sum(){
   int p=
   //hlooo
+  //for stash
 }
